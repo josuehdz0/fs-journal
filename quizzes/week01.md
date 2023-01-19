@@ -3,31 +3,31 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-
+Change directory
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
-
+Make directory
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+The beginning and the end
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Hyper Text Markup Language
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Cascading Style Sheet
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -38,7 +38,7 @@
 ```
 <!-- enter you answer in the space below -->
 ```
-
+An element, an attribute, and a value?
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
