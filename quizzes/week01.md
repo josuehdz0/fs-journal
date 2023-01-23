@@ -36,37 +36,40 @@ Cascading Style Sheet
    color : rgba(255, 210, 33, .75);
  }
 ```
+
 <!-- enter you answer in the space below -->
 ```
-An element, an attribute, and a value?
+Selector, property, value
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+Changing Color can be used to change font or text color
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+body
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+<ul> -Unordered list
+<ol> - orderedl list
+<dl> - definition list
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+As opposed to block, flex makes your element flexible in position reletive to other elements they are next to or depending on the size of the display(mobile or desktop).
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+Margin and Padding!
 ```
