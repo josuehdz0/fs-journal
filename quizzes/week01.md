@@ -45,7 +45,7 @@ Selector, property, value
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-Changing Color can be used to change font or text color
+Changing font weight
 ```
 
 **8.** In what tag does the majority of your code belong?
