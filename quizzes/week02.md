@@ -8,7 +8,7 @@
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+A function is a subprogram designed to perform a particular task. They can be executed when they a are called (invoking a function).
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -22,7 +22,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-Number 2, array counts start at 0
+Number 2, index counts start at 0
 ```
 **5.** With these two objects: 
 ```js
@@ -47,7 +47,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
